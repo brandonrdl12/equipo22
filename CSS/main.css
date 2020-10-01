@@ -1,0 +1,17 @@
+.content {
+  min-height: 75vh;
+  width: 50vw;
+  margin: auto;
+  padding-bottom: 5em;
+  background-color: #E0FFFF;
+  padding: 8em;
+  padding-top: 2em;
+}
+
+
+.presentacion {
+  margin: 5em auto;
+  text-align: center;
+  border-radius: 5px;
+  border: solid black;
+}

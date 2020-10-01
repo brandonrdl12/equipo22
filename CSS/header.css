@@ -1,0 +1,19 @@
+encabezado {
+  pantalla: flex;
+  alinear-elementos: centro;
+  justificar-contenido: espacio alrededor;
+  fondo acolchado: 5px;
+  color de fondo: verde bosque;
+  color blanco;
+  ancho: 100%;
+  alineación de texto: centro;
+}
+encabezado> img {
+  ancho: 8em;
+}
+@media pantalla y (ancho máximo: 600px) {
+  encabezado {
+    pantalla: ninguna;
+    altura: 0;
+  }
+}

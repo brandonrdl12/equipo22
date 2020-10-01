@@ -1,0 +1,161 @@
+/*Texto----------------------*/
+#navbarDropdown1{font-size: 16px;}
+.datos{font-size: 30px;
+    text-align: center;
+}
+
+h1{text-align: center;
+font-size: 40px;
+font-family: "Homer Simpson UI";
+}
+
+.JOR{text-align: center;
+    font-size: 25px;
+background:rgb(185, 246, 185);}
+
+.codigo{font-size: 13px;
+    font-style: normal;
+background:rgb(244, 244, 253);}
+
+.instrucciones{font-size: 13px;
+    font-style: normal;
+    font-weight: bold;
+}
+.encabezado{font-size: 20px;
+    font-style: normal;
+    font-weight: bold;
+   
+    text-align:center;
+    background:rgb(85, 173, 255);
+    color:white;
+}
+.T{font-size: 20px;
+    font-style: normal;
+}
+.O{background: rgb(212,255,239);
+}
+.center{text-align: center;
+   font-size: 20px;
+   font-style: normal;
+   font-weight: bold;
+} 
+.center1{text-align: center;
+ } 
+/*Texto----------------------*/
+
+
+
+body{ 
+    background:#F0FFF0;
+	/*rgb(243, 243, 251)*/;
+
+
+}
+/*imagenes----------------------*/
+
+img.htmlogo{
+	width: 500;
+	height: 2000;
+}
+
+img.ima{width:400px;
+height:300px;
+display:block;
+margin:auto;}
+
+img.im2{width:550px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im3{width:550px ;
+    height:350px;
+    display:block;
+    margin:auto;}
+
+img.im4{width:600px ;
+        height:350px;
+        display:block;
+        margin:auto;}
+
+img.im5{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+        
+img.im6{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im7{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im8{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im8_1{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im9{width700px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im9_1{width700px ;
+    height:350px;
+    display:block;
+    margin:auto;}
+
+img.im10{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im11{width:600px ;
+height:350px;
+display:block;
+margin:auto;}
+
+img.im22{width:450px ;
+    height:450px;
+    display:block;
+    margin:auto;
+}
+img.im21{width:450px ;
+    height:450px;
+    display:block;
+    margin:auto;
+}
+
+img.im23{width:450px ;
+    height:500px;
+    display:block;
+    margin:auto;
+}
+
+img.im24{width:700px ;
+    height:500px;
+    display:block;
+    margin:auto;
+}
+
+img.im25{width:700px ;
+    height:500px;
+    display:block;
+    margin:auto;
+}
+/*imagenes----------------------*/
+
+
+
+body{ 
+	background:/*rgb(243, 243, 251)*/;
+}
